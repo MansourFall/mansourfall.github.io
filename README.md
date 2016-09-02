@@ -1,1 +1,1 @@
-A Basic JQuery Mobile web site
+A demo web site
