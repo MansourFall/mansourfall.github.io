@@ -84,12 +84,20 @@ h1 ,#github{
 	margin-bottom: 0px;
 }
 
-#slogan, .emphasize {
+#slogan {
     color: rgb(250, 184, 21);
     font-family: helvetica;	
 	
 }
 
+.emphasize{
+color: rgb(250, 184, 21);
+ font-family: helvetica;
+ font-weight: bold;
+	
+}
+ 
+ 
 .btn-custom {
     margin: 40px 0 0;
     background: rgb(0,38,81);
