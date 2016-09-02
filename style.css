@@ -84,7 +84,7 @@ h1 ,#github{
 	margin-bottom: 0px;
 }
 
-#slogan{
+#slogan, .emphasize {
     color: rgb(250, 184, 21);
     font-family: helvetica;	
 	
